@@ -1,6 +1,5 @@
 ---
 title: "week2_courseproject1"
-author:"supraja"
 ---
 
 
